@@ -1,5 +1,5 @@
 #  🤝 Hello, I'm Mark
-Glad to see you here!   <br><br><br>I am a Certified AWS Solution Architect <br><br>I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, HTML, CSS, Linux, and  AWS.  <br><br> I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code or building cloud infrastructure, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+Glad to see you here!   <br><br><br>I am a certified AWS Solution Architect <br><br>I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, HTML, CSS, Linux, and  AWS.  <br><br> I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code or building cloud infrastructure, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
 
 ## 🌐 Socials:
